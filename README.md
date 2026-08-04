@@ -1,7 +1,6 @@
 # Portfolio Choice — Case Study
 
-Étude de cas de **gestion de portefeuille** réalisée dans le cadre du Master 1
-Ingénierie Statistique et Financière. Le projet construit et backteste une
+Étude de cas de **gestion de portefeuille** réalisée dans le cadre de mon Master. Le projet construit et backteste une
 allocation d'actifs multi-actifs sur-mesure pour une investisseuse (Sofia
 Andersen), à partir de la formalisation d'une *Investment Policy Statement*
 (IPS) jusqu'à la simulation d'un *glide path* de désengagement du risque.
