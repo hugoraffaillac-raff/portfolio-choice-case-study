@@ -95,13 +95,6 @@ jupyter notebook "Portfolio_Choice_-_Case_study_.ipynb"
 └── README.md
 ```
 
-## Auteurs
-
-- **Baptiste Asaert** — portefeuille US factoriel, benchmark 60/40,
-  régressions Fama-French, analyse comparative des performances.
-- **Hugo Raffaillac** — portefeuille final diversifié, backtests, stratégie
-  de glide path.
-
 Code, rédaction et choix méthodologiques réalisés conjointement.
 
 ## Avertissement
