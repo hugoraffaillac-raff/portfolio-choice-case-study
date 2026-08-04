@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+statsmodels
+yfinance
+requests
+jupyter

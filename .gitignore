@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments & secrets
+.env
+.env.*
+
+# Data caches (données de marché téléchargées à l'exécution)
+data/
+*.csv
+*.pkl
+*.parquet
+
+# Outputs / figures exportées
+outputs/
+figures/
+*.png
+*.jpg
+*.svg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / éditeurs
+.idea/
+.vscode/
+*.swp
